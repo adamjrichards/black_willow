@@ -1,0 +1,39 @@
+{
+      "bw\\init"	:    "bw_init",
+
+      "bw\\sys"	:    "bw_system",
+
+      "bw\\cons"	:    "bw_containers",
+
+      "bw\\frame"	:    "bw_framework",
+
+      "bw\\coms"	:    "bw_components",
+
+      "bw\\stats"	:    "bw_static_pages",
+
+      "bw\\core"	:    "bw_core",
+
+      "bw\\tkit"	:    "bw_toolbox",
+
+      "bw\\wraps"	:    "bw_wrappers",
+
+      "bw\\facs"	:    "bw_factories",
+
+      "bw\\funcs"	:    "bw_functions",
+
+      "bw\\data"	:    "bw_data",
+
+      "bw\\asset"	:    "bw_assets",
+
+      "bw\\bbox"	:    "bw_black_boxes",
+
+      "bw\\toys"	:    "bw_toys",
+
+      "bw\\tags"	:    "bw_inline_tags",
+
+      "bw\\errex"	:    "bw_errors",
+
+      "bw\\widg"	:    "bw_widgets",
+
+      "bw\\obj"	:    "bw_objects"
+}

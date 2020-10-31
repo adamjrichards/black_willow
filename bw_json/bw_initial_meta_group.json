@@ -1,0 +1,18 @@
+{
+	"charset"	:	"utf-8",
+	"http-equiv"	:	{
+		"content-security-policy" : "null",
+		"refresh"	: "-1"
+	},
+	"name"	:	{
+				"referrer"	: "origin",
+				"author" : "Adam J. Richards",
+				"keywords" : "blar,flurble,nork,schwa",
+				"theme-color" : "beige",
+				"color-scheme" : "normal",
+				"creator" : "Raingarden",
+				"publisher" : "Raingarden",
+				"googlebot" : "follow",
+				"robots" : "follow"
+			}
+}

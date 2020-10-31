@@ -1,0 +1,5 @@
+{
+	"MY_DEFAULT_ERROR_HANDLER" : "black_willow\\bw_Errors\\BW_Error_Discriminator",
+	"MY_DEFAULT_ERROR_MESSAGE" : "An unhandled error has occured. The program is exiting now.",
+	"MY_DEFAULT_EXCEPTION_MESSAGE" : "An uncaught exception has occurred. Debug from here."
+}

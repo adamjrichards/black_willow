@@ -1,0 +1,40 @@
+{
+	"link"	:	{
+		"the_prefetch" :	{
+			"as"	:	"as_what",
+			"crossorigin"	:	"cors_what",
+			"disabled"	:	"disabled_what",
+			"href"	:	"href_what",
+			"hreflang"	:	"",
+			"importance"	:	"auto",
+			"integrity"	:	"",
+			"media"	:	"",
+			"referrerpolicy"	:	"",
+			"rel"	:	"prefetch",
+			"sizes"	:	"",
+			"title"	:	"",
+			"type"	:	"link",
+			"methods"	:	"",
+			"prefetch"	:	"true",
+			"target"	:	"the_prefetch_target"
+		},
+		"the_alternate"	:	{
+			"as"	:	"as_styles",
+			"crossorigin"	:	"cors_styles",
+			"disabled"	:	"disabled_styles",
+			"href"	:	"href_styles",
+			"hreflang"	:	"",
+			"importance"	:	"auto",
+			"integrity"	:	"",
+			"media"	:	"",
+			"referrerpolicy"	:	"",
+			"rel"	:	"alternate stylesheet",
+			"sizes"	:	"",
+			"title"	:	"",
+			"type"	:	"link",
+			"methods"	:	"",
+			"prefetch"	:	"true",
+			"target"	:	"the_styles_target"
+		}
+	}
+}

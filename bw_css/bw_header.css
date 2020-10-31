@@ -1,0 +1,10 @@
+@charset "utf8";
+
+#the_black_willow_banner {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 1001px;
+	opacity: 0.5;
+	
+}

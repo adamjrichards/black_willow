@@ -1,0 +1,34 @@
+@charset "utf8";
+/*
+@import "bw_container.css";
+@import "bw_black_box.css";
+@import "bw_portal.css";
+*/
+html {
+	font-size: 10px;
+	font-family: Times New Roman;
+	line-height: 1.2em;
+}
+.black_box {
+	display: none;
+}
+body {
+	display: block;
+}
+.debug {
+	display: block;
+}
+.full_width {
+	width: 100%;
+}
+.full_height {
+	height: 100%;
+}
+.full_screen {
+	width: 100%;
+	height: 100%;
+}
+.aspect.hd {
+	width: 1920px;
+	height: 1080px;
+}

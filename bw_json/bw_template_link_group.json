@@ -1,0 +1,20 @@
+{
+	"link name"	:	{
+			"as"	:	"",
+			"crossorigin"	:	"",
+			"disabled"	:	"",
+			"href"	:	"",
+			"hreflang"	:	"",
+			"importance"	:	"auto",
+			"integerity"	:	"",
+			"media"	:	"",
+			"referrerpolicy"	:	"",
+			"rel"	:	"",
+			"sizes"	:	"",
+			"title"	:	"",
+			"type"	:	"",
+			"methods"	:	"",
+			"prefetch"	:	"",
+			"target"	:	""
+			}
+}
